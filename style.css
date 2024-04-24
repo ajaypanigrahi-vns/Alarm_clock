@@ -1,0 +1,12 @@
+.clock {
+    text-align: center;
+}
+
+.time {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.alarm {
+    margin-top: 20px;
+}
